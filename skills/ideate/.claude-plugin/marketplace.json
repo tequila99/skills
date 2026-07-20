@@ -1,0 +1,16 @@
+{
+  "name": "skill-ideate",
+  "owner": {
+    "name": "Ivan Milovanov"
+  },
+  "plugins": [
+    {
+      "name": "skill-ideate",
+      "source": {
+        "source": "github",
+        "repo": "YOUR_GITHUB_USERNAME/skill-ideate"
+      },
+      "description": "Multi-session brainstorming and technical specification development"
+    }
+  ]
+}

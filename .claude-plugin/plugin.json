@@ -1,0 +1,16 @@
+{
+  "name": "tequila99-skills",
+  "version": "1.0.0",
+  "description": "Ivan Milovanov's agent skills for Claude Code — Socratic teaching mode and multi-session brainstorming/spec development.",
+  "author": {
+    "name": "Ivan Milovanov"
+  },
+  "homepage": "https://github.com/tequila99/skills",
+  "repository": "https://github.com/tequila99/skills",
+  "license": "MIT",
+  "keywords": ["teaching", "socratic", "brainstorming", "specification", "ideation", "planning"],
+  "skills": [
+    "./skills/study",
+    "./skills/ideate"
+  ]
+}

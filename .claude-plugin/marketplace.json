@@ -1,0 +1,16 @@
+{
+  "name": "tequila99",
+  "owner": {
+    "name": "Ivan Milovanov"
+  },
+  "description": "Ivan Milovanov's skills for Claude Code, as an installable plugin.",
+  "plugins": [
+    {
+      "name": "tequila99-skills",
+      "source": "./",
+      "description": "Socratic teaching mode and multi-session brainstorming/spec development skills.",
+      "category": "productivity",
+      "keywords": ["teaching", "socratic", "brainstorming", "specification", "ideation"]
+    }
+  ]
+}

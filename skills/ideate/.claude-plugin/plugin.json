@@ -1,0 +1,13 @@
+{
+  "name": "skill-ideate",
+  "displayName": "Ideate",
+  "description": "Multi-session brainstorming and technical specification development",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ivan Milovanov"
+  },
+  "homepage": "https://github.com/YOUR_GITHUB_USERNAME/skill-ideate",
+  "repository": "https://github.com/YOUR_GITHUB_USERNAME/skill-ideate",
+  "license": "MIT",
+  "keywords": ["brainstorming", "specification", "ideation", "planning", "technical-writing"]
+}
